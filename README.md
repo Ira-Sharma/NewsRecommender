@@ -1,5 +1,5 @@
 # IDC410-News-Recommender
-IDC410 News Recommender Submission
+Web Scraping using RSS Feed, Text Preprocessing, Vectorizing the news dataset, Content-based filtering, Cosine Similarity, Simulation of Ranking Matrix, Collaborative Filtering, and making a Web App Using Flask.
 
 # Team Members
 1. **Himanshu Jain**- MS19026
