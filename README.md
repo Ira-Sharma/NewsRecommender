@@ -1,5 +1,5 @@
 # IDC410-News-Recommender
-IDC410(2022) News Recommender Submission
+IDC410 News Recommender Submission
 
 # Team Members
 1. **Himanshu Jain**- MS19026
